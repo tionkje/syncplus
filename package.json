@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "syncs local files to remote with a watch thing",
   "main": "lib/syncwatch.js",
+  "bin": {
+    "syncplus": "./bin/syncplus"
+  },
   "dependencies": {
     "chokidar": "^1.0.6",
     "ssh2": "^0.4.11"
