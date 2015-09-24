@@ -1,6 +1,6 @@
 {
   "name": "syncplus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "syncs local files to remote with a watch thing",
   "main": "lib/syncwatch.js",
   "bin": {
